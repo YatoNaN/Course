@@ -1,0 +1,37 @@
+
+* {
+
+    font-family: cursive;
+
+}
+
+header > h1 {
+
+
+    margin: 10px 0px 10px 0px;
+
+}
+
+
+
+.secoes {
+
+    background-color: #e2e2e2;
+    margin-bottom: 50px;
+
+}
+
+
+
+.secoes > p {
+
+    padding: 15px;
+
+}
+
+.secoes > h2 {
+
+    padding-top: 10px;
+
+}
+
