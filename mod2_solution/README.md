@@ -1,4 +1,4 @@
-# Link to see the website: https://rayatodesu.github.io/Course/mod2_solution/
+# Link to see the website: https://yatonan.github.io/Course/mod2_solution/
 
 # Module 2 Coding Assignment
 
